@@ -3,6 +3,7 @@
  * @version 1.0.0
  * @author Panagiotis Vourtsis <vourtsis_pan@hotmail.com>
  */
+
 window.onload = function() {
     "use strict";
 
