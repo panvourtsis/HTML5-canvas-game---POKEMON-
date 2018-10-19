@@ -8,7 +8,7 @@ What more awesome doing a game for fun on HTML5 canvas also when it has to do wi
   - An easy board at the bottom right for displaying to the user his/her score - i have build a mechanism to know which pokeball had picked but is not ready yet
 
   - You can fork it and start hacking around with it !
-  - happy playing !
+  - happy playing !!!
 
 ### DEMO
 
